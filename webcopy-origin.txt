@@ -1,0 +1,236 @@
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://project6200358.tilda.ws/
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: https://project6200358.tilda.ws/tilda-blocks-page31006475.min.css?t=1666259917
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\tilda-blocks-page31006475.min.css
+Content Type: text/css
+
+Uri: https://project6200358.tilda.ws/tilda-blocks-page31006475.min.js?t=1666259917
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\tilda-blocks-page31006475.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Black.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Black.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Extrabold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Extrabold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Extrabold.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Light.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Medium.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Semibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Semibold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-Semibold.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-VF.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\fonts\tildasans\TildaSans-VF.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.info/css/fonts-tildasans.css
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\css\fonts-tildasans.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-animation-1.0.min.css
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\css\tilda-animation-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.info/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-animation-1.0.min.js
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\js\tilda-animation-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/lib/tildaicon/31356636-6365-4239-a238-323061343131/Tilda_Icons_30_system_sound.svg
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\lib\tildaicon\31356636-6365-4239-a238-323061343131\Tilda_Icons_30_system_sound.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/lib/tildaicon/34346430-3336-4164-b061-393431306132/18ked_speech.svg
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\lib\tildaicon\34346430-3336-4164-b061-393431306132\18ked_speech.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/lib/tildaicon/35343435-3265-4362-b836-386165366361/diagnostics.svg
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\lib\tildaicon\35343435-3265-4362-b836-386165366361\diagnostics.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/lib/tildaicon/64653362-3061-4934-a530-353464613633/1ed_list.svg
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\lib\tildaicon\64653362-3061-4934-a530-353464613633\1ed_list.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/lib/tildaicon/65393165-3166-4133-a363-646438616466/Tilda_Icons_32_profession_doc.svg
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\lib\tildaicon\65393165-3166-4133-a363-646438616466\Tilda_Icons_32_profession_doc.svg
+Content Type: image/svg+xml
+
+Uri: https://static.tildacdn.info/tild3063-3065-4030-b461-383333373364/-/resizeb/20x/5McM40I6aWk.jpg
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\tild3063-3065-4030-b461-383333373364\-\resizeb\20x\5McM40I6aWk.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3166-6365-4136-b666-323534333438/6vn5nYjHDQI.jpg
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\tild3166-6365-4136-b666-323534333438\6vn5nYjHDQI.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3637-3166-4666-b934-353231313765/-/resizeb/20x/5zOG0JRKFzQ.jpg
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\tild3637-3166-4666-b934-353231313765\-\resizeb\20x\5zOG0JRKFzQ.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3730-3036-4538-b737-343230393866/-/empty/noroot.png
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\tild3730-3036-4538-b737-343230393866\-\empty\noroot.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6234-3463-4331-a663-383435323062/-/resizeb/20x/BmXNf-qtiFM.jpg
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\tild6234-3463-4331-a663-383435323062\-\resizeb\20x\BmXNf-qtiFM.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild6333-6236-4364-a537-623532343236/-/resize/20x/1612759164_139-p-fon.jpg
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\tild6333-6236-4364-a537-623532343236\-\resize\20x\1612759164_139-p-fon.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild6336-3330-4563-a638-663536306261/-/resizeb/20x/0Tt7B97_5VY.jpg
+File Name: C:\Downloaded Web Sites\project6200358.tilda.ws\tild6336-3330-4563-a638-663536306261\-\resizeb\20x\0Tt7B97_5VY.jpg
+Content Type: image/jpeg
+
